@@ -1,3 +1,3 @@
 # flask-login-jwt
-
-Conectada a una BD de supabase
+Login que genera un token.
+Conectada a una BD de supabase.
